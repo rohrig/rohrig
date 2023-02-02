@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rick, a full-time full-stack developer 👨‍💻 working @ <a href="https://wambo.com" target="_blank">wambo GmbH </a> since 2019 🚀</div>  
+### <div align="center">I'm Rick, a Developer Experience Engineer 👨‍💻 working @ <a href="https://vuestorefront.io" target="_blank">Vue Storefront </a> 🚀</div>  
   
 ### ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFDF_U_uoKc6MhIZPZKo5CA?label=FullStackJack&style=social)
 <a href="https://www.youtube.com/channel/UCFDF_U_uoKc6MhIZPZKo5CA">FullStackJack Youtube Channel</a>  
