@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rick, a Developer Experience Engineer 👨‍💻 working @ <a href="https://alokai.com" target="_blank">Alokai </a> 🚀</div>  
+### <div align="center">I'm Rick, a Solution Engineer 👨‍💻 working @ <a href="https://alokai.com" target="_blank">Alokai </a> 🚀</div>  
   
 ### ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFDF_U_uoKc6MhIZPZKo5CA?label=FullStackJack&style=social)
 <a href="https://www.youtube.com/channel/UCFDF_U_uoKc6MhIZPZKo5CA">FullStackJack Youtube Channel</a>  
