@@ -11,16 +11,6 @@
 ----
 
 - 🔭 I’m currently working on E-Commerce
-  
-
-- 🌱 I’m currently learning Kubernetes  
-  
-
-- ❓ Ask me about anything related to Laravel, PHP and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
